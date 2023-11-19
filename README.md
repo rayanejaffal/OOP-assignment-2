@@ -7,7 +7,6 @@
 TicTacToe
 =========
 
-![tictactoe](../_images/tictactoe.jpg)
 
 Le jeu de [tic-tac-toe](https://fr.wikipedia.org/wiki/Tic-tac-toe) se joue à 2 sur un damier 3x3. Chaque case du damier peut recevoir un pion. Il y a 2 types de pions, 1 type par joueur.
 
@@ -98,6 +97,5 @@ Question 4 🤔
 
 Modifier le code précédent de façon à ce que la méthode `vainqueur()` renvoie le nom du vainqueur, plutôt que son pion.
 
-Jacquelin Charbonnel   —   Support publié sous licence Creative Commons BY-NC-ND   —   2017-2023
 
 var myDate = new Date(document.lastModified); myNewDate = new Intl.DateTimeFormat( undefined, {year: "numeric", month: "long", day: "numeric", hour: "2-digit", minute: "2-digit"} ) .format(myDate).replace(/\\./g, '-'); document.getElementById("lastmodify").innerHTML = myNewDate ;
