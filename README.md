@@ -4,53 +4,6 @@
 #### Course: POO et traitement des données en Python
 #### Prof: Jacquelin Charbonnel
 
-  TicTacToe :: Master Data Science 1    
-
-[Master Data Science 1](../../../..)
-
-### [Python objet](../../index.html)
-
-*   *   [Concepts de la POO](../../poo/poo.html)
-    *   [Objet](../objet.html)
-        *   [Exercice 1](../IPaddr/IPaddr.html)
-        *   [Exercice 2](../Tortue/Tortue.html)
-        *   [Exercice 3](../Frigo/Frigo.html)
-        *   [Problème 1](tictactoe.html)
-        *   [Problème 2](../Torche/torche.html)
-    *   [Opérateurs](../../operateurs/operateurs.html)
-        *   [Problème](../../operateurs/domino/domino.html)
-    *   [Classe](../../classe/classe.html)
-    *   [Héritage](../../heritage/heritage.html)
-        *   [Problème 1](../../heritage/Formes/formes.html)
-        *   [Problème 2](../../heritage/Biodiversite/biodiversite.html)
-        *   [Debriefing](../../heritage/debrief.html)
-        *   [Problème 3](../../heritage/flotte/flotte.html)
-    *   [Exceptions](../../exception/exception.html)
-        *   [Problème](../../exception/Poker/poker.html)
-
-Python objet 2024
-
-*   Génie logiciel
-    *   [2024](../../../../genie_logiciel/2024/index.html)
-*   Git b.a. ba
-    *   [2024](../../../../git_baba/2024/index.html)
-*   Index
-    *   [2024](../../../../ds1/2024/index.html)
-*   Python objet
-    *   [2024](../../index.html)
-*   Unix b.a. ba
-    *   [2024](../../../../unix_baba/2024/index.html)
-
-[](../../../../ds1/2024/index.html)
-
-*   [Python objet](../../index.html)
-*   [Objet](../objet.html)
-*   [Problème 1](tictactoe.html)
-
-[Edit this Page](file:///users/200003833/gitwc/antora_components/python_objet/starts/ds1/modules/objet/pages/TicTacToe/tictactoe.adoc)
-
-modifié le
-
 TicTacToe
 =========
 
